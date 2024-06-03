@@ -1,6 +1,6 @@
 #bizcardx.extraction 
 
-This project was done through vscode
+This project was done through GOOGLE COLAB
 
 Installing required packages
 
